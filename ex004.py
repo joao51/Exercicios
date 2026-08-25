@@ -1,4 +1,4 @@
-n = input('digite um nome? ')
+n = input('Digite algo? ')
 print('O tipo primitivo desse valor é', type(n) )
 print('Só tem espaços? ', n.isspace())
 print('Só tem números? ', n.isnumeric())
